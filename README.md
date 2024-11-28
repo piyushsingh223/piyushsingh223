@@ -34,3 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushsingh223&" alt="piyushsingh223" /></p>
 
+[![An image of @piyushbiet41's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushbiet41)](https://holopin.io/@piyushbiet41)
+
